@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @dataninja-python, oldmanGmr, or just AJ.
 - 👀 I’m interested in working with startups to improve their technology product/market fit.
-- 🌱 I’m currently learning Rust, Haskell, Lisp, and Java (for a Masters program).
+- 🌱 I’m currently learning Rust, Haskell, Lisp (Racket), and Java (for a Masters program).
+- :worried: I'm a little stressed I won't be able to build this WASM physics engine I started for a game. Wish me luck...oh I should upload it.
 - 💞️ I’m looking to collaborate on projects that can positively impact people's lives. Especially, those from historically disadvantaged communities.
-- 📫 How to reach me: aj@redstonema.com.
+- 📫 How to reach me: aj@redstonema.com. NOTE: I use a Haskell program to parse spam. Let me know if it's working TOO well.
+- :dash: Gotta run. As usual, I've got a client deadline. Contact me above.
